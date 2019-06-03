@@ -11,8 +11,17 @@ Projeto para desenvolvimento de ferramentas para análise textual.
 Contatos:
 --------- 
 
-frclasso@gmail.com
+www.floripacodegurus.com.br
+----------------------------
 
-www.floripacodegurus.com.br 
 
-https://www.linkedin.com/in/fabio-reis-classo-46881425/
+Siga-nos nas redes sociais e concorra a descontos
+-------------------------------------------------
+
+https://linktr.ee/floripa_code_gurus
+
+https://twitter.com/GurusCode
+
+https://www.instagram.com/floripa_code_gurus/
+
+https://www.facebook.com/codegurs/
